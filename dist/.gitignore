@@ -3,9 +3,9 @@
 # Useful .gitignore templates: https://github.com/github/gitignore
 
 #Ignore file
-/crdentials.py
+/cdedentialele_mele.py
 
 
 #TEXTE/
 
-TEXTE/*.txt
+TEXTE/*.txt 
