@@ -5,5 +5,5 @@
 #Ignore file
 /cdedentialele_mele.py
 
-#Ignore folder
-newtext/
+#Ignore fjust text fiels in fodler
+newtext/*.txt
